@@ -1,0 +1,14 @@
+How to run the code:
+1-	Install visual studio code.
+2-	Install python 3.12.
+3-	Install pip.
+4-	Open visual studio code terminal then write the following commands:
+	I.	Pip install pandas.
+	II.	Pip install NumPy.
+	III.	Pip install flask.
+5-	Unzip the folder.
+6-	Open the submitted folder in visual studio code.
+7-	Be in the directory of the server.py file.
+8-	Then click Run, run without debugging.
+9-	The terminal will open press ctrl and left mouse click on the port server link.
+10-	It will lead you to your browser to see the whole dashboard.
